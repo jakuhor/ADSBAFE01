@@ -1,14 +1,16 @@
-description: Template repository
+description: Analog RF front-end for 1090 MHz ADS-B/Mode-S reception, designed to
+  interface with MCU module.
 github_branch: MODUL01A
 github_branches:
 - MODUL01A
-github_repo: MODUL01
-github_url: https://github.com/mlab-modules/MODUL01
+github_description: Analog RF front-end for 1090 MHz ADS-B/Mode-S reception, designed
+  to interface with MCU module.
+github_repo: ADSBAFE01
+github_url: https://github.com/mlab-modules/ADSBAFE01
 homepage: false
 images: []
 issues: 2
 mark: 50
-tags:
-- mlab
-- mlab-module
-title: MODUL01
+tags: []
+title: ADSBAFE01
+updated: '2026-01-19T09:38:36.571899+00:00'
