@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C16","100nF","C_0805_2012Metric",-1.8710,18.4418,0.0000,bottom
+"C17","10uF","C_0805_2012Metric",-1.8710,21.4518,0.0000,bottom
+"D3","BZV55C-6,2V","D_MiniMELF",-7.2660,18.6068,0.0000,bottom
+"FID1","Fiducial","Fiducial_1mm_Mask2mm",-12.2610,18.7118,0.0000,bottom
+"FID2","Fiducial","Fiducial_1mm_Mask2mm",-12.2610,22.2618,0.0000,bottom
+"M5","RFShield_TwoPieces","Laird_Technologies_BMI-S-204-F_32.00x32.00mm",30.2264,30.5812,0.0000,bottom
